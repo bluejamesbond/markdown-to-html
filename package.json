@@ -36,7 +36,7 @@
   "homepage": "https://github.com/cwjohan/markdown-to-html",
   "dependencies": {
     "gfm-linkify": "^0.1.0",
-    "marked": "^0.3.2",
+    "marked": "github:bluejamesbond/marked",
     "open": "0.0.5",
     "pygmentize-bundled": "^2.2.0",
     "request": "^2.47.0",
